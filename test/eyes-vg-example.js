@@ -1,6 +1,6 @@
 'use strict';
 
-const {Target, Eyes, VisualGridRunner} = require('@applitools/eyes.webdriverio');
+const {Target, Eyes, VisualGridRunner} = require('@applitools/eyes-webdriverio');
 const {BrowserType, Configuration, DeviceName, ScreenOrientation} = require('@applitools/eyes-selenium');
 
 let eyes;
