@@ -57,9 +57,10 @@
     "@applitools/eyes-sdk-core" "^5.5.2"
     "@applitools/visual-grid-client" "^12.6.7"
 
-"@applitools/eyes.webdriverio@https://github.com/applitools/eyes.webdriverio.javascript5.git":
+"@applitools/eyes-webdriverio@^5.1.0-beta.1":
   version "5.1.0-beta.1"
-  resolved "https://github.com/applitools/eyes.webdriverio.javascript5.git#4d5f4a0abf1b49a69d62ef6f2698f19512ef9b23"
+  resolved "https://registry.yarnpkg.com/@applitools/eyes-webdriverio/-/eyes-webdriverio-5.1.0-beta.1.tgz#b4f3d023cd4f327e34050f3d2d76fd59880ce94b"
+  integrity sha512-NTZtOFIYRtzPX+EioCtZVB3KPqyz7glr/fFWe6pWuWG0Un3Md8x6QBOGT96LmnV+bn8vwQcHG1IcG8GsrFOvOw==
   dependencies:
     "@applitools/dom-snapshot" "^1.0.7"
     "@applitools/dom-utils" "~4.6.6"
