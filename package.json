@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@applitools/eyes-webdriverio": "^5.1.0-beta.1",
+    "@applitools/eyes-webdriverio": "^5.3.0",
     "@wdio/cli": "^5.7.15"
   },
   "devDependencies": {
